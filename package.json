@@ -1,0 +1,6 @@
+{
+  "name": "temp",
+  "devDependencies": {
+    "@test/a": "file:a"
+  }
+}
